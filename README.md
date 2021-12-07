@@ -1,3 +1,1 @@
-# AI-_Python-
-python 공부
-# test
+## AI물류로봇아카데미 파이썬 학습
